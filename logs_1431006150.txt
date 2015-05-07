@@ -1,6 +1,0 @@
-S 4.333248
-A 6.054346
-A - Total Time: 6.054346
-D - Total Time: 0
-S - Total Time: 4.333248
-Q - Total Time: 0
